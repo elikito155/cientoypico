@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial HD", 001 Gol Mundial - 1080 (Multiaudio)
 acestream://Dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
