@@ -1,0 +1,747 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="La1.es" tvg-name="La 1" tvg-chno="1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", La 1
+acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
+#EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF: -1 tvg-id="La2.es" tvg-name="La 2" tvg-chno="3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="TDT", La 2
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+#EXTINF: -1 tvg-id="La2.TV" tvg-name="La 2" tvg-chno="4" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF: -1 tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-chno="5" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" group-title="TDT", ANTENA 3
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1145
+#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-chno="6" tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TDT", CUATRO
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF: -1 tvg-id="Telecinco.es" tvg-name="TeleCinco 1080" tvg-chno="7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT", TeleCinco 1080
+acestream://cbf281d5e481697aa4184fe1de5e069928c95057
+#EXTINF: -1 tvg-id="24Horas.TV" tvg-name="24h" tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TDT", 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF: -1 tvg-id="24Horas.TV" tvg-name="24h" tvg-chno="9" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TDT", 24h
+https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
+#EXTINF: -1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-chno="10" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sexta.png" group-title="TDT", La Sexta
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1148
+#EXTINF: -1 tvg-id="GOL PLAY" tvg-name="Gol Play - 1080" tvg-chno="11" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="TDT", Gol Play - 1080
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF: -1 tvg-id="BarcaTV.es" tvg-name="Barça TV" tvg-chno="12" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT", Barça TV
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF: -1 tvg-name="Nius" tvg-chno="13" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="TDT", Nius SD
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
+#EXTINF: -1 tvg-name="Nius" tvg-chno="14" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="TDT", Nius HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
+#EXTINF: -1 tvg-id="Mega.es" tvg-name="Mega - 1080" tvg-chno="15" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="TDT", Mega - 1080
+acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
+#EXTINF: -1 tvg-id="Mega.es" tvg-name="Mega - 720" tvg-chno="16" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="TDT", Mega - 720
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
+#EXTINF: -1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-chno="17" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TDT", El Toro TV
+https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF: -1 tvg-id="13.TV" tvg-name="TRECE" tvg-chno="18" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT", TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Telemadrid.es" tvg-name="Telemadrid HD" tvg-chno="19" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvam.png" group-title="TDT", Telemadrid HD
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/252719
+#EXTINF: -1 tvg-name="Euronews" tvg-chno="20" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="TDT", Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-chno="21" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fdft5.png" group-title="TDT", FDF
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1150
+#EXTINF: -1 tvg-id="BeMad.es" tvg-name="Be Mad" tvg-chno="22" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="TDT", Be Mad
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/277706
+#EXTINF: -1 tvg-name="El País" tvg-chno="23" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="TDT", El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF: -1 tvg-id="Negocios.TV" tvg-name="Negocios TV" tvg-chno="24" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="TDT", Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF: -1 tvg-id="Energy.es" tvg-name="Energy" tvg-chno="25" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="TDT", Energy
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1151
+#EXTINF: -1 tvg-name="7NN Noticias" tvg-chno="26" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="TDT", 7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="Neox.es" tvg-name="Neox" tvg-chno="27" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/neox.png" group-title="TDT", Neox
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1154
+#EXTINF: -1 tvg-name="El Confidencial" tvg-chno="28" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="TDT", El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF: -1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="A3 Series" tvg-chno="29" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="TDT", A3 Series
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1157
+#EXTINF: -1 tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-chno="30" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT", Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF: -1 tvg-id="DKiss.es" tvg-name="Dkiss" tvg-chno="31" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="TDT", Dkiss
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1158
+#EXTINF: -1 tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-chno="32" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT", Teledeporte GEO
+https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_dvr.m3u8
+#EXTINF: -1 tvg-id="GOL PLAY" tvg-name="GOL TV 1080" tvg-chno="33" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="TDT", GOL PLAY HD
+acestream://49c35606668ebf7a895434ec4c9243a163d87718
+#EXTINF: -1 tvg-id="E3.TV" tvg-name="Esport 3" tvg-chno="34" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="TDT", Esport 3 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF: -1 tvg-id="Teledeporte HD" tvg-name="tdp 1080  (TeleDeporte)" tvg-chno="35" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="TDT", tdp 1080  (TeleDeporte)
+acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
+#EXTINF: -1 tvg-id="E3.TV" tvg-name="Esport 3" tvg-chno="36" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="TDT", Esport 3 GEO
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF: -1 tvg-id="BeMad.es" tvg-name="BE MAD 1080" tvg-chno="37" tvg-logo="https://i.ibb.co/2qxWsCP/BeMad.jpg" group-title="TDT", BE MAD 1080
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF: -1 tvg-id="ETBD.TV" tvg-name="ETB Deportes" tvg-chno="38" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="TDT", ETB Deportes
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+#EXTINF: -1 tvg-id="BARCA TV" tvg-name="BARCA TV HD" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="TDT", BARCA TV HD
+acestream://65c141632af256d70da66c767ba74360042b4396
+#EXTINF: -1 tvg-id="AragonD.TV" tvg-name="Aragón Deporte" tvg-chno="40" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="TDT", Aragón Deporte
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8
+#EXTINF: -1 tvg-id="RMTV.TV" tvg-name="RealMadrid TV" tvg-chno="41" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="TDT", RealMadrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF: -1 tvg-name="Real Federación Española de Fútbol" tvg-chno="42" tvg-logo="https://graph.facebook.com/RFEF/picture?width=200&height=200" group-title="TDT", Real Federación Española de Fútbol
+https://rfef-live3.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="Clan.TV" tvg-name="Clan" tvg-chno="43" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="TDT", Clan GEO
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF: -1 tvg-id="Clan.TV" tvg-name="Clan" tvg-chno="44" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="TDT", Clan GEO
+https://rtvelivestream.akamaized.net/segments/clan/clan_main_dvr.m3u8
+#EXTINF: -1 tvg-name="Pequeradio TV" tvg-chno="45" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="TDT", Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF: -1 tvg-name="Cartoon Network Latino" tvg-chno="46" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="TDT", Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF: -1 tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-chno="47" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="TDT", Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Canal Sur 2 Andalucía" tvg-chno="48" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="TDT", Canal Sur 2 Andalucía
+http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
+#EXTINF: -1 tvg-id="AragonTV.TV" tvg-name="Aragón TV" tvg-chno="49" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="TDT", Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF: -1 tvg-id="CMM.TV" tvg-name="Castilla-La Mancha Media" tvg-chno="50" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="TDT", Castilla-La Mancha Media
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF: -1 tvg-id="La7.TV" tvg-name="La 7" tvg-chno="51" tvg-logo="https://graph.facebook.com/cyltv/picture?width=200&height=200" group-title="TDT", La 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF: -1 tvg-id="TV3.TV" tvg-name="TV3" tvg-chno="52" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="TDT", TV3 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF: -1 tvg-id="TV3.TV" tvg-name="TV3" tvg-chno="53" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="TDT", TV3 GEO
+https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF: -1 tvg-id="324.TV" tvg-name="324" tvg-chno="54" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="TDT", 324
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF: -1 tvg-id="C33.TV" tvg-name="33" tvg-chno="55" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="TDT", 33 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF: -1 tvg-id="C33.TV" tvg-name="Super3" tvg-chno="56" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="TDT", Super3 GEO
+https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
+#EXTINF: -1 tvg-id="8tvcat.TV" tvg-name="8 TV" tvg-chno="57" tvg-logo="https://graph.facebook.com/8tvcat/picture?width=200&height=200" group-title="TDT", 8 TV
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+#EXTINF: -1 tvg-name="RTVCE" tvg-chno="58" tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="TDT", RTVCE
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="NaTV.TV" tvg-name="Navarra TV" tvg-chno="59" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="TDT", Navarra TV HD
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF: -1 tvg-id="APUNT.TV" tvg-name="À Punt" tvg-chno="60" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TDT", À Punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF: -1 tvg-id="Extremadura.TV" tvg-name="Canal Extremadura" tvg-chno="61" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="TDT", Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="TVGAL.TV" tvg-name="TVG" tvg-chno="62" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="TDT", TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-name="TVG 2" tvg-chno="63" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="TDT", TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="TVR.TV" tvg-name="TV Rioja" tvg-chno="64" tvg-logo="https://graph.facebook.com/tvrtelevision/picture?width=200&height=200" group-title="TDT", TV Rioja
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+#EXTINF: -1 tvg-id="MelillaTV.TV" tvg-name="Melilla TV" tvg-chno="65" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200" group-title="TDT", Melilla TV
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="ETB1.TV" tvg-name="ETB 1" tvg-chno="66" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="TDT", ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF: -1 tvg-id="ETB2.TV" tvg-name="ETB 2" tvg-chno="67" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="TDT", ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF: -1 tvg-id="0porMovistarPlus.es" tvg-name="#0" tvg-chno="1" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Movistar +", #0
+acestream://107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF: -1 tvg-id="M+ #0 HD" tvg-name="#0 opción 2" tvg-chno="2" tvg-logo="https://i.ibb.co/1mdGqWc/Cero.jpg" group-title="Movistar +", #0 opción 2
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF: -1 tvg-id="eventosmovistar.es" tvg-chno="3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="Movistar +", Eventos de Movistar
+acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
+#EXTINF: -1 tvg-id="ngc.es" tvg-name="National Geographic" tvg-chno="4" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Movistar +", National Geographic
+Acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+#EXTINF: -1 tvg-id="I443.43362.zap2it.com" tvg-name="Historia" tvg-chno="5" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="Movistar +", Canal Historia
+acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+#EXTINF: -1 tvg-id="Toros.es" tvg-name="Toros" tvg-chno="6" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Movistar +", Toros
+Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
+#EXTINF: -1 tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos" tvg-chno="7" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="Movistar +", Movistar Estrenos
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1164
+#EXTINF: -1 tvg-id="M+ ACCION HD" tvg-name="Movistar Accion" tvg-chno="8" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="Movistar +", Movistar Accion
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1166
+#EXTINF: -1 tvg-id="M+COMEDIA HD" tvg-name="Movistar Comedia" tvg-chno="9" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="Movistar +", Movistar Comedia
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1167
+#EXTINF: -1 tvg-id="M+ Cine Español" tvg-name="Movistar Cine Ñ" tvg-chno="10" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="Movistar +", Movistar Cine Ñ
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
+#EXTINF: -1 tvg-id="M+ SERIES HD" tvg-name="Movistar Series" tvg-chno="11" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="Movistar +", Movistar Series
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1185
+#EXTINF: -1 tvg-id="FOX" tvg-name="FOX" tvg-chno="12" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="Movistar +", FOX
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1182
+#EXTINF: -1 tvg-id="CALLE 13 HD" tvg-name="Calle 13" tvg-chno="13" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="Movistar +", Calle 13
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1179
+#EXTINF: -1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood" tvg-chno="14" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" group-title="Movistar +", Hollywood
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1175
+#EXTINF: -1 tvg-id="COMEDYCENTRAL HD" tvg-name="Comedy Central" tvg-chno="15" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="Movistar +", Comedy Central
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1163
+#EXTINF: -1 tvg-id="AMC HD" tvg-name="AMC" tvg-chno="16" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" group-title="Movistar +", AMC
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1177
+#EXTINF: -1 tvg-id="AMC CRIME" tvg-name="AMC Crime" tvg-chno="17" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amccrime.png" group-title="Movistar +", AMC Crime
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1193
+#EXTINF: -1 tvg-id="TCM HD" tvg-name="TCM" tvg-chno="18" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" group-title="Movistar +", TCM
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1178
+#EXTINF: -1 tvg-id="AXN HD" tvg-name="AXN" tvg-chno="19" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="Movistar +", AXN
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1180
+#EXTINF: -1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-chno="20" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="Movistar +", AXN White
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1181
+#EXTINF: -1 tvg-id="NAT GEO HD" tvg-name="National Geographic" tvg-chno="22" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Movistar +", National Geographic
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1196
+#EXTINF: -1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-chno="23" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="Movistar +", Nat Geo Wild
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1195
+#EXTINF: -1 tvg-id="CANAL ODISEA" tvg-name="Odisea" tvg-chno="24" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="Movistar +", Odisea
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1187
+#EXTINF: -1 tvg-id="DISCOVERY" tvg-name="Discovery Channel" tvg-chno="25" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="Movistar +", Discovery Channel
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1188
+#EXTINF: -1 tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca" tvg-chno="26" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyp.png" group-title="Movistar +", Caza y Pesca
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1189
+#EXTINF: -1 tvg-id="IBERALIA TV" tvg-name="Iberalia TV" tvg-chno="27" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="Movistar +", Iberalia TV
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1191
+#EXTINF: -1 tvg-id="DISNEY JR" tvg-name="Disney Junior" tvg-chno="28" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dj.png" group-title="Movistar +", Disney Junior
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1199
+#EXTINF: -1 tvg-id="DISNEY CH HD" tvg-name="Disney Channel" tvg-chno="29" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="Movistar +", Disney Channel
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1200
+#EXTINF: -1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-chno="30" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="Movistar +", Baby TV
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1202
+#EXTINF: -1 tvg-id="NICK JR" tvg-name="Nick Jr" tvg-chno="31" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nickjr.png" group-title="Movistar +", Nick Jr
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1203
+#EXTINF: -1 tvg-id="NICKELODEON HD" tvg-name="Nickeloden" tvg-chno="32" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nick.png" group-title="Movistar +", Nickeloden
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1204
+#EXTINF: -1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-chno="33" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/panda.png" group-title="Movistar +", Canal Panda
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/269879
+#EXTINF: -1 tvg-id="#VAMOS" tvg-name="#Vamos 720" tvg-chno="34" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar +", #Vamos 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF: -1 tvg-id="M+ #VAMOSHD" tvg-name="#Vamos 1080" tvg-chno="35" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar +", #Vamos 1080
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+#EXTINF: -1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="ESPN Argentina" tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", ESPN Argentina
+acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
+#EXTINF: -1 tvg-id="I261.79042.schedulesdirect.org" tvg-name="ESPN 3 Argentina" tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", ESPN 3 Argentina
+Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
+#EXTINF: -1 tvg-id="RedBull TV HD" tvg-name="Redbull Tv USA" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Internacional", Redbull Tv USA
+Acestream://9c9bdd6d153309fef289b377f2eadaa5a2a224c4
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sport 1" tvg-logo="https://cdn131.picsart.com/a79c4fdf-3dd1-4e5e-9e36-ab9fb7ebd75b/402972136017211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Fox Sports 1
+Acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF: -1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="https://cdn141.picsart.com/9ddae45c-f8d4-4d1c-80f9-1c7f56468882/402972108027211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Fox Sports 2
+Acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF: -1 tvg-id="I906.109162.schedulesdirect.org" tvg-name="Premier Sports 2" tvg-logo="https://cdn131.picsart.com/fb4e9c5a-375e-44d3-bb74-053454fbfdbf/402543889023211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Premier Sports 2
+Acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF: -1 tvg-id="skysportspl.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://cdn131.picsart.com/5a8d4677-a86e-4749-a0fc-df60b5e94aea/402544227018211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Sky Sports Premier League
+Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF: -1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Maint Event" tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Sky Sports Maint Event
+Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF: -1 tvg-id="Sky Sports Arena GER HD" tvg-name="Sky Sports Arena" tvg-logo="https://cdn131.picsart.com/524ee9fd-1686-4973-b86e-6f30c6eb68f2/402972940025211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Sky Sports Arena
+Acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF: -1 tvg-id="DAZN 1 GER" tvg-name="DAZN 1 Bar (Alemania)" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="Internacional", DAZN 1 Bar (Alemania)
+Acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF: -1 tvg-id="DAZN 2 GER" tvg-name="DAZN 2 Bar Alemania" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="Internacional", DAZN 2 Bar Alemania
+Acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF: -1 tvg-id="Sky Sport Bundesliga 1 GER" tvg-name="Sky Sport Bundesliga" tvg-logo="https://cdn141.picsart.com/c6e08adf-ea98-47d0-b777-a51555de708b/402972962028211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Sky Sport Bundesliga
+acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF: -1 tvg-id="MagentaSport" tvg-name="Magenta Sport 1" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 1
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF: -1 tvg-id="Sport 2 - myTeamTV" tvg-name="Magenta Sport 2" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 2
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF: -1 tvg-id="vacio" tvg-name="Magenta Sport 3" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 3
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF: -1 tvg-id="vacio" tvg-name="Magenta Sport 4" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 4
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF: -1 tvg-id="vacio" tvg-name="Magenta Sport 5" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 5
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF: -1 tvg-id="vacio" tvg-name="Magenta Sport 6" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 6
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 7
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF: -1 tvg-id="vacio" tvg-name="Magenta Sport 8" tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Magenta Sport 8
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF: -1 tvg-id="digisport1.hu" tvg-name="Digi Sport 1" tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Digi Sport 1
+Acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+#EXTINF: -1 tvg-id="digisport3.hu" tvg-name="Digi Sport 3" tvg-logo="https://cdn131.picsart.com/bb88d9da-253d-4ebd-80d9-f2edb51a9180/402544847012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Digi Sport 3
+Acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
+#EXTINF: -1 tvg-id="Fight Box HD" tvg-name="FightBox" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="Internacional", FightBox
+acestream://49b734a5a3365674480089264be00ae28fabb640
+#EXTINF: -1 tvg-id="FightSports" tvg-name="Fight Sport" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fight.png" group-title="Internacional", Fight Sport
+Acestream://3143ba2254daa432ef9c28cdae6ca188eb2bc29a
+#EXTINF: -1 tvg-id="polsatsport.pl" tvg-name="Polsat Sport" tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Polsat Sport
+Acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF: -1 tvg-id="canal+sport1hd.pl" tvg-name="Canal plus sport 1 (Polonia)" tvg-logo="https://cdn141.picsart.com/4929c7f5-082c-4920-89e0-c24b305f8f2a/402545313014211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Canal plus sport 1 (Polonia)
+Acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF: -1 tvg-id="canal+sport3hd.pl" tvg-name="Canal plus sport 3 (Polonia)" tvg-logo="https://cdn131.picsart.com/0f213d6c-36ba-48ba-b6f2-8fd9edc7f4f3/402545626005211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Canal plus sport 3 (Polonia)
+Acestream://3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF: -1 tvg-id="extremesports.de" tvg-name="Extreme Sport" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/xtm.png" group-title="Internacional", Extreme Sport
+acestream://73ff07648e367efebd94636047b07625f664a082
+#EXTINF: -1 tvg-id="I281.78763.schedulesdirect.org" tvg-name="FightBox" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="Internacional", FightBox
+Acestream://d9e5e213121f3ea7fbcb216b48c306cd935b017a
+#EXTINF: -1 tvg-id="vacio" tvg-name="Матч! Премьер HD" tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Матч! Премьер HD
+Acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF: -1 tvg-name="Match Football 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300653.jpg" group-title="Internacional", Match Football 1
+Acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF: -1 tvg-name="Match Football 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300654.jpg" group-title="Internacional", Match Football 3
+Acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF: -1 tvg-id="beinsports1.fr" tvg-name="Bein Sport 1" tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Bein Sport 1
+Acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
+#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="Bein Sport 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300656.png" group-title="Internacional", Bein Sport 2
+Acestream://705e0086f2156e1d76609393666b95a5bd43bebb
+#EXTINF: -1 tvg-id="ziggosportracing.nl" tvg-name="Ziggo Sport Racing" tvg-logo="https://cdn131.picsart.com/9b899fab-9d20-45b3-9bc1-431efd0c7019/402978536009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Ziggo Sport Racing
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF: -1 tvg-id="ziggosportselect.nl" tvg-name="Ziggo Sport Select" tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Ziggo Sport Select
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF: -1 tvg-id="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal" tvg-logo="https://cdn131.picsart.com/812ce6c4-9cb3-4007-a436-e9eecccc9fce/402978510026211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", Ziggo Sport Voetbal
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF: -1 tvg-id="AllFlamenco" tvg-name="All Sports" tvg-logo="https://cdn141.picsart.com/ed3eba7c-f0b1-4043-bb93-904f0da34bab/402985697007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Internacional", All Sports
+acestream://e26a359efe269af158923a63d69884bfe12a33cc
+#EXTINF: -1 tvg-id="vacio" tvg-name="Win Sports" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300661.jpg" group-title="Internacional", Win Sports
+acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
+#EXTINF: -1 tvg-id="Sport TV1 POR HD" tvg-name="Sport Tv 1 1080" tvg-logo="https://i.ibb.co/j6SBq77/sporttv.jpg" group-title="Internacional", Sport Tv 1 1080
+acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
+#EXTINF: -1 tvg-id="Sport TV2 POR HD" tvg-name="Sport Tv 2 1080" tvg-logo="https://i.ibb.co/j6SBq77/sporttv.jpg" group-title="Internacional", Sport Tv 2 1080
+acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+#EXTINF: -1 tvg-id="Sport TV3 POR HD" tvg-name="Sport Tv 3" tvg-logo="https://i.ibb.co/j6SBq77/sporttv.jpg" group-title="Internacional", Sport Tv 3
+acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
+#EXTINF: -1 tvg-id="beinsports1.fr" tvg-name="beIN SPORTS nn 1080" tvg-logo="https://i.ibb.co/PhdtVMq/Bein.jpg" group-title="Internacional", beIN SPORTS nn 1080
+acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
+#EXTINF: -1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="ESPN Argentina" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", ESPN Argentina
+acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
+#EXTINF: -1 tvg-id="I511.105006.schedulesdirect.org" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://e7.pngegg.com/pngimages/293/436/png-clipart-fox-sports-networks-fox-sports-2-fox-entertainment-group-television-others-television-emblem.png" group-title="Internacional", Fox Sports 3 Argentina
+acestream://9a8c5485a38e9399e81b3eed23e588946946039f
+#EXTINF: -1 tvg-id="I206.10179.zap2it.com" tvg-name="ESPN Uruguay" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", ESPN Uruguay
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF: -1 tvg-id="I209.12444.zap2it.com" tvg-name="ESPN 2 Uruguay" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Internacional", ESPN 2 Uruguay
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF: -1 tvg-id="I209.12444.zap2it.com" tvg-name="ESPN 3 Uruguay" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Internacional", ESPN 3 Uruguay
+acestream://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ESPN Extra Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Internacional", ESPN Extra Uruguay
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DirecTv Ecuador" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300735.png" group-title="Internacional", DirecTv Ecuador
+acestream://f3f14b89eb62839f97153593432370b5bd61a5df
+#EXTINF: -1 tvg-id="nbatv.us" tvg-name="NBA USA 1 1080" tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="Internacional", NBA USA 1 1080
+acestream://39db49bc89dcc3c8797566231f869dca57f1a47e
+#EXTINF: -1 tvg-id="nbax2.us" tvg-name="NBA USA 2 1080" tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="Internacional", NBA USA 2 1080
+acestream://f1c84ec8ea0c0bfff8a24272b66c64354a522110
+#EXTINF: -1 tvg-id="I206.10179.zap2it.com" tvg-name="ESPN USA 1080" tvg-logo="https://w7.pngwing.com/pngs/2/447/png-transparent-espn-logo-television-the-walt-disney-company-news-presenter-golf-miscellaneous-television-company.png" group-title="Internacional", ESPN USA 1080
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF: -1 tvg-id="I209.12444.zap2it.com" tvg-name="ESPN 2 USA 1080" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn2.jpg" group-title="Internacional", ESPN 2 USA 1080
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF: -1 tvg-id="I618.33178.zap2it.com" tvg-name="FOX SPORTS 2 USA 1080" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300745.jpeg" group-title="Internacional", FOX SPORTS 2 USA 1080
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 UK 1080" tvg-logo="https://yt3.ggpht.com/a/AGF-l78ZqyFB4kSBHTszVEC6-PJIiLsvQE4nLnIITQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Internacional", BT Sport 1 UK 1080
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF: -1 tvg-id="I414.1807.tvguide.co.uk" tvg-name="BT Sport 2 UK 1080" tvg-logo="https://th.bing.com/th/id/R.4d173e0449a106664efcff68b224c504?rik=Z2r9yN2MA1vQkg&riu=http%3a%2f%2foklivetv.com%2fwp-content%2fuploads%2fmedia%2fbt-sport-2-logo.jpeg&ehk=zYH%2bcIJepJKJ%2fg4sl0NwJIrDSmkA0qfzAguOgnfI7T4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="Internacional", BT Sport 2 UK 1080
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 UK 1080" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300748.png" group-title="Internacional", BT Sport 3 UK 1080
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF: -1 tvg-id="BT Sport 4 UK" tvg-name="BT Sport 4 UK 1080" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300749.jpg" group-title="Internacional", BT Sport 4 UK 1080
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF: -1 tvg-id="skysportspl.uk" tvg-name="Sky Sports PREMIER LEAGUE UK" tvg-logo="https://yt3.ggpht.com/so_lrPh6XZG8QdMd5wMOFhLWAM8SfudqKoJhIe0vKUyk3LsQtNdCPvDtDtLSoTnZ4ZnrVLVm6Q=s900-c-k-c0x00ffffff-no-rj" group-title="Internacional", Sky Sports PREMIER LEAGUE UK
+acestream://8d976b2a90dce3b57ed094bd8a6152335c66bbc9
+#EXTINF: -1 tvg-id="rtl.de" tvg-name="RTL+ SPORT EVENT 1 [DE]" tvg-logo="https://th.bing.com/th/id/OIP.LTol0iSBRNpV01l9Qz6xogHaEJ?pid=ImgDet&dpr=3" group-title="Internacional", RTL+ SPORT EVENT 1 [DE]
+acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3
+#EXTINF: -1 tvg-id="rtlii.de" tvg-name="RTL+ SPORT EVENT 2 [DE]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/RTL_SPORT_2_2022.png" group-title="Internacional", RTL+ SPORT EVENT 2 [DE]
+acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+#EXTINF: -1 tvg-id="rtlplus.de" tvg-name="RTL+ SPORT EVENT 3 [DE]" tvg-logo="https://1.bp.blogspot.com/-qNQl1PXyOC0/XsauEjFsOqI/AAAAAAAADEc/F-JwzRD-AlIg6PvibFAJMaFWKw6IND26ACLcBGAsYHQ/w1200-h630-p-k-no-nu/SPORT%2BTV%2B3%2BHD.jpg" group-title="Internacional", RTL+ SPORT EVENT 3 [DE]
+acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+#EXTINF: -1 tvg-id="rtl4.nl" tvg-name="RTL+ SPORT EVENT 4 [DE]" tvg-logo="https://1.bp.blogspot.com/-osCg2AEOjKw/XsauFIOr6OI/AAAAAAAADEg/XQ2nwJXr7_gmJ-38N2STxG3Jo0n-auIrgCLcBGAsYHQ/w1200-h630-p-k-no-nu/SPORT%2BTV%2B4%2BHD.jpg" group-title="Internacional", RTL+ SPORT EVENT 4 [DE]
+acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6
+#EXTINF: -1 tvg-id="RTL+ SPORT EVENT 5 [DE]" tvg-name="RTL+ SPORT EVENT 5 [DE]" tvg-logo="https://1.bp.blogspot.com/-zqvN5lk1P7E/XsauFkIOvEI/AAAAAAAADEk/Gf3aLCre-u8ygdbr6DwK-c1qREj-Hk18gCLcBGAsYHQ/s640/SPORT%2BTV%2B5%2BHD.jpg" group-title="Internacional", RTL+ SPORT EVENT 5 [DE]
+acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5
+#EXTINF: -1 tvg-id="superrtl.de" tvg-name="RTL+ SPORT EVENT 6 [DE]" tvg-logo="https://www.tv-direct.fr/assets/logo/replay/sport-6.jpg" group-title="Internacional", RTL+ SPORT EVENT 6 [DE]
+acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+#EXTINF: -1 tvg-id="eurosport1.de" tvg-name="Eurosport 1 HD [DE]" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300763.jpg" group-title="Internacional", Eurosport 1 HD [DE]
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF: -1 tvg-id="Eurosport 2 GER HD" tvg-name="Eurosport 2 HD [DE]" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300764.png" group-title="Internacional", Eurosport 2 HD [DE]
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF: -1 tvg-id="BEIN SPORTS 1 FRA" tvg-name="BeIN Sports 1 BE" tvg-logo="https://th.bing.com/th/id/R.22fe151a752e85592ae6e4204f8d618b?rik=3w3ROWu5uE6aJQ&pid=ImgRaw&r=0" group-title="Internacional", BeIN Sports 1 BE
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="BeIN Sports 2 BE" tvg-logo="https://th.bing.com/th/id/R.62fb85edefd045f58d3d981b185ede7d?rik=4ITrCfl3P%2fkslQ&riu=http%3a%2f%2flivetv.ultimatefreehost.in%2fuploads%2ftv_image%2fsm%2fbein-sport-2.png&ehk=H9iWX%2fRpan4T7JKb6Usc9DqO0nVNj96qz2U3CZfMDmA%3d&risl=&pid=ImgRaw&r=0" group-title="Internacional", BeIN Sports 2 BE
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="BeIN Sports 3 BE" tvg-logo="https://th.bing.com/th/id/R.e80733c6a85622b09359098b126b798e?rik=AJd45wtMnhWAmA&pid=ImgRaw&r=0" group-title="Internacional", BeIN Sports 3 BE
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF: -1 tvg-id="elevensports1.pl" tvg-name="Eleven Sports 1 BE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-eleven-sports-1-713.png" group-title="Internacional", Eleven Sports 1 BE
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF: -1 tvg-id="elevensports2.pl" tvg-name="Eleven Sports 2 BE" tvg-logo="https://th.bing.com/th/id/OIP.enpX0qA6rEw7UTw-So9NnAAAAA?pid=ImgDet&w=150&h=150&c=7&dpr=3" group-title="Internacional", Eleven Sports 2 BE
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF: -1 tvg-id="elevensports3.pl" tvg-name="Eleven Sports 3 BE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-eleven-sports-3-1658.png" group-title="Internacional", Eleven Sports 3 BE
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF: -1 tvg-id="elevensports4.pl" tvg-name="Eleven Sports 4 BE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png" group-title="Internacional", Eleven Sports 4 BE
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF: -1 tvg-id="Eleven Sports 5 BE" tvg-name="Eleven Sports 5 BE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Internacional", Eleven Sports 5 BE
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF: -1 tvg-id="Eleven Sports 6 BE" tvg-name="Eleven Sports 6 BE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Internacional", Eleven Sports 6 BE
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF: -1 tvg-id="Setanta Sport 1" tvg-name="Setanta Sport 1" tvg-logo="https://th.bing.com/th/id/R.db910da4fd4e9e142aad80e348c0ce3d?rik=znRnLi3h1GIeGg&riu=http%3a%2f%2fbackpagefootball.com%2fwp-content%2fuploads%2f2011%2f02%2fSetanta-Sports1.jpg&ehk=mq8fb5Ro8nAdpQIn7oA7p0RYE4RvdHt2os%2bF2djRLNw%3d&risl=&pid=ImgRaw&r=0" group-title="Internacional", Setanta Sport 1
+acestream://8b70ef2d42e2adac57e90f68847eadfc356c04d2
+#EXTINF: -1 tvg-id="Setanta Sport 2" tvg-name="Setanta Sport 2" tvg-logo="https://s3.vcdn.biz/static/f/1796579391/image.jpg" group-title="Internacional", Setanta Sport 2
+acestream://02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
+#EXTINF: -1 tvg-id="bbcone.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="Internacional", BBC ONE UK
+a30c60fe37ef98a276b0daafcdc0527f534142c5
+#EXTINF: -1 tvg-id="mtvbase.uk" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mtv-dance-logo.png" group-title="Internacional", MTV DANCE UK
+d8881560a33508fb822480522a81c5fa87454885
+#EXTINF: -1 tvg-id="mtv.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-B_v_Kn5IVffJA2tBe5GZPEyvu8U7cvfYQ&usqp=CAU" group-title="Internacional", MTV UK
+7230b0ac56330d388e11f7cf7308232dd5d5187a
+#EXTINF: -1 tvg-id="I77.40813.schedulesdirect.org" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/4394355.5461e8f40e596.jpg" group-title="Internacional", Viva UK
+603754550b2f17fba37fa7ddd876a38e97444272
+#EXTINF: -1 tvg-id="digisport3.hu" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ro-digi-sport-3-882.png" group-title="Internacional", Digi sport 3
+d6902382a5cdbf82534d7364fbb5742d51eae602
+#EXTINF: -1 tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="Internacional", Redbull TV EN
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF: -1 tvg-name="Channel Fight" tvg-logo="https://graph.facebook.com/channelfightofficial/picture?width=200&height=200" group-title="Internacional", Channel Fight EN
+https://api-ott.channelfight.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=269&partner=TDTChannels
+#EXTINF: -1 tvg-name="Stadium USA" tvg-logo="https://graph.facebook.com/watchstadium/picture?width=200&height=200" group-title="Internacional", Stadium USA EN
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
+#EXTINF: -1 tvg-name="Garage TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="Internacional", Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+#EXTINF: -1 tvg-name="Best Cable Sports Perú" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200" group-title="Internacional", Best Cable Sports Perú
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF: -1 tvg-chno="1206" group-title="Internacional", NBA TV
+http://angeltv.biz:6969/jessica/jessica/1258
+#EXTINF: -1 tvg-chno="2229" group-title="Internacional", ▃ ▅ ▆ █  NBA FEED 1 █ ▆ ▅ ▃
+http://angeltv.biz:6969/jessica/jessica/86686
+#EXTINF: -1 tvg-chno="2243" group-title="Internacional", ▃ ▅ ▆ █  NBA FEED 2 █ ▆ ▅ ▃
+http://angeltv.biz:6969/jessica/jessica/86687
+#EXTINF: -1 tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="Movistar Deportes", LaLiga Tv Bar 1080
+acestream://01b333b9369c662775902638ef8cffac346a0f61
+#EXTINF: -1 tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="Movistar Deportes", LaLiga Tv Bar 720
+acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Movistar Deportes", Liga de Campeones - 1080 MultiAudio
+acestream://109c70ce6abc73be01a82571470e3402e4714819
+#EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080a" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Movistar Deportes", Liga de Campeones - 1080
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="Liga de campeones - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Movistar Deportes", Liga de campeones - 720
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Liga de Campeones 02 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Movistar Deportes", Liga de Campeones 02 - 1080
+acestream://91dce080463a5c6ee931fc5489a75ab54a5cb071
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="Liga de Campeones 03 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="Movistar Deportes", Liga de Campeones 03 - 1080
+acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="La Liga - 720c" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", La Liga - 720c
+acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+#EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 1080 MultiAudio
+acestream://684e5c085484e8ea79858713eeb7a3668baca29e
+#EXTINF: -1 tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="Movistar Deportes", M+ Deportes 7 - 720
+Acestream://b779e6056975e3682a804d47cbd5cc806217f64d
+#EXTINF: -1 tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="Movistar Deportes", M+ Deportes 7 - 1080
+Acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+#EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 1080
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+#EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 720
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+#EXTINF: -1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 2 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+#EXTINF: -1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 2 1080
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF: -1 tvg-id="M+ LaLiga 3 HD" tvg-name="Movistar LaLiga 3 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 3 1080
+acestream://2075cf1c981654a5772d8508ecce044375d9ba38
+#EXTINF: -1 tvg-id="MovistarLaLiga4.es" tvg-name="Movistar LaLiga 4 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 4 1080
+acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a
+#EXTINF: -1 tvg-id="MovistarLaLiga5.es" tvg-name="Movistar LaLiga 5 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 5 1080
+acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c
+#EXTINF: -1 tvg-id="MovistarLaLiga6.es" tvg-name="Movistar LaLiga 6 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 6 1080
+acestream://8021cba61d1e0891a41a6c3334f947360000dc8e
+#EXTINF: -1 tvg-id="MovistarLaLiga10.es" tvg-name="Movistar LaLiga 7 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar Deportes", Movistar LaLiga 7 1080
+acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
+#EXTINF: -1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartBank 1080 MultiAudio" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="Movistar Deportes", LaLiga SmartBank 1080 MultiAudio
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF: -1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartBank 720" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="Movistar Deportes", LaLiga SmartBank 720
+acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+#EXTINF: -1 tvg-id="LaLiga SmartbankTV 2 HD" tvg-name="LaLiga SmartBank 2 1080" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="Movistar Deportes", LaLiga SmartBank 2 1080
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF: -1 tvg-id="LaLiga SmartbankTV 3 HD" tvg-name="LaLiga SmartBank 3 720" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="Movistar Deportes", LaLiga SmartBank 3 720
+acestream://1000c018cf4afb7357f10e438e966d23340e4295
+#EXTINF: -1 tvg-id="M. DEPORTES" tvg-name="M. Deportes 720" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes", M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF: -1 tvg-id="M+DEPORTESHD" tvg-name="M. Deportes 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes", M. Deportes 1080
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF: -1 tvg-id="M+DEPORTES2HD" tvg-name="M. Deportes 2 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes", M. Deportes 2 1080
+acestream://85bd65161dfd8c4033194da3c978c0450c9111db
+#EXTINF: -1 tvg-id="M. DEPORTES4" tvg-name="M. Deportes 4 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes", M. Deportes 4 1080
+acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
+#EXTINF: -1 tvg-id="M. DEPORTES5" tvg-name="M. Deportes 5 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes", M. Deportes 5 1080
+acestream://478833f6390f04e95c6d94180a784b78ad540d2f
+#EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 1080 MultiAudio" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 1080 MultiAudio
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 720" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 720
+acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
+#EXTINF: -1 tvg-id="M+LCAMPEON3" tvg-name="M.L. Campeones 3 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 3 SD
+acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 4" tvg-name="M.L. Campeones 4 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 4 SD
+acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
+#EXTINF: -1 tvg-id="M+LCAMPEON5" tvg-name="M.L. Campeones 5 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 5 SD
+acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
+#EXTINF: -1 tvg-id="M+LCAMPEON6" tvg-name="M.L. Campeones 6 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 6 SD
+acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
+#EXTINF: -1 tvg-id="M+LCAMPEON7" tvg-name="M.L. Campeones 7 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 7 SD
+acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+#EXTINF: -1 tvg-id="M.LCAMPEON8" tvg-name="M.L. Campeones 8 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 8 SD
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 9" tvg-name="M.L. Campeones 9 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 9 SD
+acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 10" tvg-name="M.L. Campeones 10 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 10 SD
+acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 11" tvg-name="M.L. Campeones 11 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 11 SD
+acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF: -1 tvg-id="M+ Liga de Campeones 12" tvg-name="M.L. Campeones 12 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 12 SD
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF: -1 tvg-id="M+ GOLF HD" tvg-name="M. Golf 1080" tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" group-title="Movistar Deportes", M. Golf 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF: -1 tvg-id="EUROSPORT1HD" tvg-name="EuroSport 1 1080" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" group-title="Movistar Deportes", EuroSport 1 1080
+acestream://40da37534656efcc6179c1b7693335d5e8212e43
+#EXTINF: -1 tvg-id="EUROSPORT2HD" tvg-name="EuroSport 2 1080" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" group-title="Movistar Deportes", EuroSport 2 1080
+acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
+#EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones HD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones HD
+acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
+#EXTINF: -1 tvg-id="M+LCAMPEON2" tvg-name="M.L. Campeones 2" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 2
+acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
+#EXTINF: -1 tvg-id="M+LCAMPEON2" tvg-name="M.L. Campeones 2 HD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 2 HD
+acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
+#EXTINF: -1 tvg-id="M+LCAMPEON3" tvg-name="M.L. Campeones 3 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 3 SD
+acestream://f2b785193cfa99c581287be39e2fb5a73827957b
+#EXTINF: -1 tvg-id="M+LCAMPEON4" tvg-name="M.L. Campeones 4 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 4 SD
+acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones.es" group-title="Movistar Deportes", M.L. Campeones 1080 MultiAudio 2
+aedf221240a0f8513d90b555bf1b6e5306ac1e76
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones" group-title="Movistar Deportes", M.L. Campeones 1080 MultiAudio
+539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones" group-title="Movistar Deportes", M.L. Campeones 720
+f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones2.es" tvg-name="M.L. Campeones 2" group-title="Movistar Deportes", M.L. Campeones 2 1080
+9b76d0739f87555ccd3f42fc8e548762a0b94c28
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones3.es" tvg-name="M.L. Campeones 2" group-title="Movistar Deportes", M.L. Campeones 2 720
+04b36c831975b5514b63d6aaa97962bc2a495dd3
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones3.es" tvg-name="M. Campeones 3" group-title="Movistar Deportes", M.L. Campeones 3 1080
+f2b785193cfa99c581287be39e2fb5a73827957b
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones3.es" group-title="Movistar Deportes", M.L. Campeones 3 720
+f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones4.es" group-title="Movistar Deportes", M.L. Campeones 4 SD
+8a9018cccaa36014ab0f050e5132d5ee264f7737
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones5.es" group-title="Movistar Deportes", M.L. Campeones 5 SD
+662cceb5a2b23f2150172df24247fa220d8d95d4
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones6.es" group-title="Movistar Deportes", M.L. Campeones 6 SD
+a2e878fbab5dff0e2cda01e74a88c7b32eb67913
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones7.es" group-title="Movistar Deportes", M.L. Campeones 7 SD
+8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+#EXTINF: -1 tvg-id="MovistarLigadeCampeones8.es" group-title="Movistar Deportes", M.L Campeones 8
+fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF: -1 tvg-id="DAZN 1" tvg-name="DAZN 1 1080" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg" group-title="DAZN", DAZN 1 1080
+acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
+#EXTINF: -1 tvg-id="DAZN 1" tvg-name="DAZN 1 720" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg" group-title="DAZN", DAZN 1 720
+acestream://84af46abab9de02bdd22818747738cfa5438132e
+#EXTINF: -1 tvg-id="DAZN 2" tvg-name="DAZN 2 1080" tvg-logo="https://i.ibb.co/v1RBCHL/DAZN2.jpg" group-title="DAZN", DAZN 2 1080
+acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e
+#EXTINF: -1 tvg-id="DAZN 2" tvg-name="DAZN 2 720" tvg-logo="https://i.ibb.co/v1RBCHL/DAZN2.jpg" group-title="DAZN", DAZN 2 720
+acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
+#EXTINF: -1 tvg-id="DAZN 3" tvg-name="DAZN 3 1080" tvg-logo="https://i.ibb.co/QfX8Xx6/DAZN3.jpg" group-title="DAZN", DAZN 3 1080
+acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11
+#EXTINF: -1 tvg-id="DAZN 4" tvg-name="DAZN 4 1080" tvg-logo="https://i.ibb.co/Qjk9GPx/DAZN4.jpg" group-title="DAZN", DAZN 4 1080
+acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
+#EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga 1080 multiaudio" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN", DAZN LaLiga 1080 multiaudio
+acestream://fee5612d57824b6e8db780f210ec54093056dc3a
+#EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga 1080" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN", DAZN LaLiga 1080
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga 720" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN", DAZN LaLiga 720
+acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+#EXTINF: -1 tvg-id="DAZN LaLiga2 HD" tvg-name="DAZN LaLiga 2 720" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN", DAZN LaLiga 2 720
+acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+#EXTINF: -1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LaLiga 2" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="DAZN", DAZN LaLiga 2
+acestream://168a14ea6da11a19637a92c4c5e4096979ec0e73
+#EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga - 720 (Opcion 1)" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="DAZN", DAZN LaLiga - 720 (Opcion 1)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga - 720 (Opcion 5)" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="DAZN", DAZN LaLiga 720 (Opcion 2)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c35d2207792128fc0ae49c40e885c463f664dbce
+#EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="DAZN", DAZN F1 1080
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+#EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 720" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="DAZN", DAZN F1 720
+acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
+#EXTINF: -1 tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa", TV3CAT GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF: -1 tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa", TV3CAT GEO
+https://directes-tv-es.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF: -1 tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa", TV3CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF: -1 tvg-id="ETBSAT.TV" tvg-name="EITB Basque" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Int. Europa", EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF: -1 tvg-id="TVGA.TV" tvg-name="TVG América" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Int. Europa", TVG América
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="ATVHD.TV" tvg-name="ATV Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Int. Europa", ATV Andorra
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF: -1 tvg-id="ATVCW.TV" tvg-name="ATV Web Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Int. Europa", ATV Web Andorra
+https://videos.rtva.ad/live/web/playlist.m3u8
+#EXTINF: -1 tvg-name="CNN Internacional" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="Int. Europa", CNN Internacional
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-id="Bloom.TV" tvg-name="Bloomberg Europe" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Int. Europa", Bloomberg Europe EN
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF: -1 tvg-name="BFM TV Francia" tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="Int. Europa", BFM TV Francia FR
+https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF: -1 tvg-name="TV5Monde Francia" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Int. Europa", TV5Monde Francia FR
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF: -1 tvg-id="RaiN.TV" tvg-name="Rai News 24 Italia" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa", Rai News 24 Italia IT
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF: -1 tvg-name="Sport Italia" tvg-logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200" group-title="Int. Europa", Sport Italia IT
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8
+#EXTINF: -1 tvg-name="Sport Italia" tvg-logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200" group-title="Int. Europa", Sport Italia
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
+#EXTINF: -1 tvg-name="Sport Italia" tvg-logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200" group-title="Int. Europa", Sport Italia
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
+#EXTINF: -1 tvg-name="La7 Italia" tvg-logo="https://graph.facebook.com/tgla7/picture?width=200&height=200" group-title="Int. Europa", La7 Italia IT
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF: -1 tvg-name="La7d Italia" tvg-logo="https://graph.facebook.com/la7fb/picture?width=200&height=200" group-title="Int. Europa", La7d Italia IT
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF: -1 tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa", DW Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF: -1 tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa", DW Alemania EN
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF: -1 tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa", DW Alemania DE
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF: -1 tvg-name="Das Erste Alemania" tvg-logo="https://graph.facebook.com/DasErste/picture?width=200&height=200" group-title="Int. Europa", Das Erste Alemania DE
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF: -1 tvg-name="WDR Alemania" tvg-logo="https://graph.facebook.com/WDR/picture?width=200&height=200" group-title="Int. Europa", WDR Alemania DE
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF: -1 tvg-name="NDR Niedersachsen Alemania" tvg-logo="https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200" group-title="Int. Europa", NDR Niedersachsen Alemania DE
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF: -1 tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Int. Europa", Sky News UK EN
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF: -1 tvg-name="GB News UK" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="Int. Europa", GB News UK EN
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
+#EXTINF: -1 tvg-id="RTP1.TV" tvg-name="RTP 1 Portugal" tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" group-title="Int. Europa", RTP 1 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="RTP2.TV" tvg-name="RTP 2 Portugal" tvg-logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200" group-title="Int. Europa", RTP 2 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="Int. Europa", RTP 3 Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="RTP Madeira Portugal" tvg-logo="https://graph.facebook.com/rtpmadeira/picture?width=200&height=200" group-title="Int. Europa", RTP Madeira Portugal PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="RTP Açores Portugal" tvg-logo="https://graph.facebook.com/rtpacores/picture?width=200&height=200" group-title="Int. Europa", RTP Açores Portugal PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Porto Canal Portugal" tvg-logo="https://graph.facebook.com/portocanal/picture?width=200&height=200" group-title="Int. Europa", Porto Canal Portugal PT
+https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
+#EXTINF: -1 tvg-name="LN24 Bélgica" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="Int. Europa", LN24 Bélgica FR
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+#EXTINF: -1 tvg-name="RTÉ News Irlanda" tvg-logo="https://graph.facebook.com/rtenews/picture?width=200&height=200" group-title="Int. Europa", RTÉ News Irlanda EN
+https://live.rte.ie/live/a/channel3/news.isml/playlist.m3u8
+#EXTINF: -1 tvg-name="TRT Haber Turquía" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200" group-title="Int. Europa", TRT Haber Turquía EN
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-name="TRT Haber Turquía" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200" group-title="Int. Europa", TRT Haber Turquía
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-name="RTCG SAT Montenegro" tvg-logo="https://graph.facebook.com/PortalRTCG/picture?width=200&height=200" group-title="Int. Europa", RTCG SAT Montenegro
+https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Televizija Eslovenia" tvg-logo="https://graph.facebook.com/Televizija.Slovenija/picture?width=200&height=200" group-title="Int. Europa", Televizija Eslovenia
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF: -1 tvg-name="Televizija Eslovenia" tvg-logo="https://graph.facebook.com/Televizija.Slovenija/picture?width=200&height=200" group-title="Int. Europa", Televizija Eslovenia
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF: -1 tvg-name="Televizija Eslovenia" tvg-logo="https://graph.facebook.com/Televizija.Slovenija/picture?width=200&height=200" group-title="Int. Europa", Televizija Eslovenia
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF: -1 tvg-name="RÚV Islandia" tvg-logo="https://graph.facebook.com/RUVohf/picture?width=200&height=200" group-title="Int. Europa", RÚV Islandia
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF: -1 tvg-name="RÚV Islandia" tvg-logo="https://graph.facebook.com/RUVohf/picture?width=200&height=200" group-title="Int. Europa", RÚV Islandia
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF: -1 tvg-name="San Marino RTV" tvg-logo="https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200" group-title="Int. Europa", San Marino RTV IT
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
+#EXTINF: -1 tvg-name="San Marino RTV" tvg-logo="https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200" group-title="Int. Europa", San Marino RTV IT
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
+#EXTINF: -1 tvg-name="Ukraine 24 Ucrania" tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="Int. Europa", Ukraine 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF: -1 tvg-name="Current Time TV" tvg-logo="https://graph.facebook.com/currenttimetv/picture?width=200&height=200" group-title="Int. Europa", Current Time TV
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF: -1 tvg-name="FOX Live Now USA" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="Int. América", FOX Live Now USA EN
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-name="ABC News USA" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="Int. América", ABC News USA EN
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF: -1 tvg-name="CBS News USA" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="Int. América", CBS News USA EN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF: -1 tvg-name="Cheddar USA" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" group-title="Int. América", Cheddar USA EN
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-name="Bloomberg USA" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Int. América", Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF: -1 tvg-name="Bloomberg USA" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Int. América", Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF: -1 tvg-name="CourtTV USA" tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" group-title="Int. América", CourtTV USA EN
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF: -1 tvg-name="NASA TV Public" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América", NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF: -1 tvg-name="NASA TV Media" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América", NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF: -1 tvg-name="WeatherNation USA" tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="Int. América", WeatherNation USA
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF: -1 tvg-name="America's Voice USA" tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" group-title="Int. América", America's Voice USA EN
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF: -1 tvg-name="BUZZR TV USA" tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200" group-title="Int. América", BUZZR TV USA EN
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-name="Newsmax TV USA" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="Int. América", Newsmax TV USA EN
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+#EXTINF: -1 tvg-name="America TeVe USA" tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" group-title="Int. América", America TeVe USA
+https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
+#EXTINF: -1 tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América", Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF: -1 tvg-name="El Financiero Mexico" tvg-logo="https://graph.facebook.com/ElFinancieroMx/picture?width=200&height=200" group-title="Int. América", El Financiero Mexico
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF: -1 tvg-name="FORO TV Mexico" tvg-logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Int. América", FORO TV Mexico
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF: -1 tvg-id="ADN40.TV" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América", ADN40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF: -1 tvg-name="Canal Once Mexico" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América", Canal Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF: -1 tvg-name="Turistik TV Mexico" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="Int. América", Turistik TV Mexico
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+#EXTINF: -1 tvg-name="Noticias Caracol Colombia" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Int. América", Noticias Caracol Colombia
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF: -1 tvg-name="Canal Capital Colombia" tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" group-title="Int. América", Canal Capital Colombia
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF: -1 tvg-name="Teleantioquia Colombia" tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="Int. América", Teleantioquia Colombia
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
+#EXTINF: -1 tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Int. América", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Telepacifico Colombia" tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" group-title="Int. América", Telepacifico Colombia
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Canal TRO Colombia" tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="Int. América", Canal TRO Colombia
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Canal TRO Colombia" tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="Int. América", Canal TRO Colombia
+https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Exitosa Noticias Perú" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="Int. América", Exitosa Noticias Perú
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF: -1 tvg-name="Panamericana Perú" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Int. América", Panamericana Perú
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF: -1 tvg-name="TV Perú" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Int. América", TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF: -1 tvg-name="TV Perú Noticias" tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Int. América", TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF: -1 tvg-name="Canal IPe Perú" tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. América", Canal IPe Perú
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF: -1 tvg-id="TeleSUR.TV" tvg-name="TeleSUR Venezuela" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. América", TeleSUR Venezuela
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF: -1 tvg-name="Televen TV Venezuela" tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="Int. América", Televen TV Venezuela
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+#EXTINF: -1 tvg-name="La Tele Tuya Venezuela" tvg-logo="https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200" group-title="Int. América", La Tele Tuya Venezuela
+https://vcp4.myplaytv.com//tlt-oct22/xtream.stream/playlist.m3u8
+#EXTINF: -1 tvg-name="Canal Antigua Guatemala" tvg-logo="https://graph.facebook.com/canalantigua/picture?width=200&height=200" group-title="Int. América", Canal Antigua Guatemala
+https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8
+#EXTINF: -1 tvg-name="TeleAmazonas Ecuador" tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200" group-title="Int. América", TeleAmazonas Ecuador
+https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
+#EXTINF: -1 tvg-name="Bolivia 7.2 TV" tvg-logo="https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200" group-title="Int. América", Bolivia 7.2 TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF: -1 tvg-name="Red Pat Bolivia" tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="Int. América", Red Pat Bolivia
+https://master.tucableip.com/pat/playlist.m3u8
+#EXTINF: -1 tvg-id="Cubavision.TV" tvg-name="Cubavisión TV" tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200" group-title="Int. América", Cubavisión TV
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF: -1 tvg-name="Telemicro República Dominicana" tvg-logo="https://graph.facebook.com/telemicro5/picture?width=200&height=200" group-title="Int. América", Telemicro República Dominicana
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+#EXTINF: -1 tvg-name="ABC TV Paraguay" tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="Int. América", ABC TV Paraguay
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF: -1 tvg-name="Trece Paraguay" tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="Int. América", Trece Paraguay
+http://174.138.118.252/live/trece.m3u8
+#EXTINF: -1 tvg-name="Unicanal Paraguay" tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="Int. América", Unicanal Paraguay
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF: -1 tvg-name="WTV Nicaragua" tvg-logo="https://graph.facebook.com/WtvNuevaGuinea/picture?width=200&height=200" group-title="Int. América", WTV Nicaragua
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF: -1 tvg-name="TeleDiario Costa Rica" tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="Int. América", TeleDiario Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF: -1 tvg-name="Rede Massa Brasil" tvg-logo="https://pbs.twimg.com/profile_images/1521181649622417412/S7X22or5_200x200.jpg" group-title="Int. América", Rede Massa Brasil
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
+#EXTINF: -1 tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022", 001 Gol Mundial - 1080 Multiaudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF: -1 tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022", 002 Gol Mundial - 1080 Opcion 1
+acestream://4e7b21206691ecdb489d4b1334944236f065e762
+#EXTINF: -1 tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022", 003 Gol Mundial - 1080 Opcion 2
+acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+#EXTINF: -1 tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022", 004 Gol Mundial - 1080 Opcion 3
+acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+#EXTINF: -1 tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022", 005 Gol Mundial - 720 Opcion 1
+acestream://ea800270d91039624e821e2e9394d0bee4ea0e35
+#EXTINF: -1 tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022", 006 Gol Mundial - 720 Opcion 2
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+#EXTINF: -1 tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022", 007 Gol Mundial - 720 Opcion 3
+acestream://bc125e7047cc7a83f58ae31c213899065d88794c
+#EXTINF: -1 tvg-id="Gol Mundial 2" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022", 008 Gol Mundial 2 - 1080 Opcion 1
+acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
+#EXTINF: -1 tvg-id="Gol Mundial 2" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022", 009 Gol Mundial 2 - 1080 Opcion 2
+acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+#EXTINF: -1 tvg-id="Gol Mundial 2" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022", 010 Gol Mundial 2 - 720 Opcion 1
+acestream://2aab272d05089ce881538a1b3288d391de152d53
+#EXTINF: -1 tvg-id="Gol Mundial 2" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022", 011 Gol Mundial 2 - 720 Opcion 2
+acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
