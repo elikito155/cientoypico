@@ -1,0 +1,24 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L97yQHV/golmundial-gold-gradient-light.png" group-title="Mundial 2022" tvg-id="Gol Mundial HD", 001 Gol Mundial - 1080 Multiaudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L97yQHV/golmundial-gold-gradient-light.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 002 Gol Mundial - 1080 (Opcion 1)
+acestream://4e7b21206691ecdb489d4b1334944236f065e762
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L97yQHV/golmundial-gold-gradient-light.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 004 Gol Mundial - 1080 (Opcion 3)
+acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L97yQHV/golmundial-gold-gradient-light.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 006 Gol Mundial - 720 (Opcion 1)
+acestream://ea800270d91039624e821e2e9394d0bee4ea0e35
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L97yQHV/golmundial-gold-gradient-light.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 007 Gol Mundial - 720 (Opcion 2)
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L97yQHV/golmundial-gold-gradient-light.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 008 Gol Mundial - 720 (Opcion 3)
+acestream://bc125e7047cc7a83f58ae31c213899065d88794c
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 009 Gol Mundial 2 - 1080 (Opcion 1)
+acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 010 Gol Mundial 2 - 1080 (Opcion 2)
+acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 011 Gol Mundial 2 - 1080 (Opcion 3)
+acestream://8a26b327719faf000af9c0f46014be28415eacf1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 012 Gol Mundial 2 - 720 (Opcion 1)
+acestream://2aab272d05089ce881538a1b3288d391de152d53
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 013 Gol Mundial 2 - 720 (Opcion 2)
+acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
