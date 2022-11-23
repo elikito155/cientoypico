@@ -1,6 +1,3 @@
-﻿#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTINF:-1 ,
-corrupt/empty
 #EXTINF:-1 group-title="Generalistas" tvg-id="La1.TV" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" ,La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-id="La1.TV" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" ,La 1
