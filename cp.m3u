@@ -3387,6 +3387,18 @@ https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF: group-title="TDT" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" ,ANTENA 3
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1145
+#EXTINF:0 group-title="TDT" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" ,ANTENA 3 OP2
+acestream://aeee81b34b80bb8bc0cab95376eaf80ce667cd72
+#EXTINF:0 group-title="TDT" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" ,ANTENA 3 OP3
+acestream://144a5ebb07bc450d170dbcd53d8ce8cd9c938bc9
+#EXTINF:0 group-title="TDT" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" ,ANTENA 3 OP4
+acestream://1bf12f871cf57876bec1843e417a96d4c30862ba
+#EXTINF:0 group-title="TDT" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" ,ANTENA 3 OP5
+acestream://8634ead4d309bd5beb2d63325d948b8a10038d5c
+#EXTINF:0 group-title="TDT" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" ,ANTENA 3 OP6
+acestream://baff1b5e58db26b86dda490ddef93535707e8ae5
+#EXTINF:0 group-title="TDT" tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" ,ANTENA 3 OP7
+acestream://a3a7664de6f80e48c1bb98c395fc83a9559cef0f
 #EXTINF: group-title="TDT" tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" ,[ACE] CUATRO
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: group-title="TDT" tvg-id="Telecinco.es" tvg-name="TeleCinco 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,[ACE] TeleCinco 1080
@@ -3643,6 +3655,10 @@ acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF: group-title="Internacional" tvg-name="Match Football 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300654.jpg" ,[ACE] Match Football 3
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:0 group-title="Internacional" tvg-id="beinsports1.fr" tvg-name="Bein Sport 1" tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png" ,[ACE] Bein Sport US
+acestream://7064ed08ee876a36061d43b646a00524f27141fd
+#EXTINF:0 group-title="Internacional" tvg-id="beinsports1.fr" tvg-name="Bein Sport 1" tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png" ,[ACE] Bein Sport ES
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF: group-title="Internacional" tvg-id="beinsports1.fr" tvg-name="Bein Sport 1" tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png" ,[ACE] Bein Sport 1
 acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
 #EXTINF: group-title="Internacional" tvg-id="beinsports2.fr" tvg-name="Bein Sport 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300656.png" ,[ACE] Bein Sport 2
@@ -3803,6 +3819,8 @@ acestream://684e5c085484e8ea79858713eeb7a3668baca29e
 acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 #EXTINF: group-title="Movistar Deportes" tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" ,[ACE] M+ Deportes 7 - 1080
 acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+#EXTINF:0 group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar Fútbol HD
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
 #EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 720
