@@ -29,6 +29,258 @@ acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [NF] Gol Mundial 2 - 720 (OP 2)
 acestream://
 
+##DAZN
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 Multiaudio
+acestream://fee5612d57824b6e8db780f210ec54093056dc3a
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 (Opcion 1)
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 1080 (Opcion 2)
+http://127.0.0.1:6878/ace/m/584ee15cc873ba3630d13a87ecd16b8429e69975/1884a8ca9bde8a414007a7f31dd8581c.m3u8
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 1)
+acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 2)
+acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 720 (Opcion 3)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 720 (Opcion 4)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c35d2207792128fc0ae49c40e885c463f664dbce
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 - 1080 Multiaudio
+acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 - 1080 (Opcion 1)
+acestream://168a14ea6da11a19637a92c4c5e4096979ec0e73
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 720 Multiaudio
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
+
+##La Liga
+#EXTINF:-1 group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" ,[ACE] [ESP] La Liga Tv Bar - 1080
+acestream://
+#EXTINF:-1 group-title="La Liga" tvg-id="La Liga Tv Bar - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" ,[ACE] [ESP] La Liga Tv Bar - 720
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 Multiaudio
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 (Opcion 1)
+acestream://684e5c085484e8ea79858713eeb7a3668baca29e
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 (Opcion 2)
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 1)
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 2)
+acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 3)
+acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 4)
+acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" ,[ACE] [ESP] La Liga 2 - 1080
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" ,[ACE] [ESP] La Liga 2 - 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 3 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" ,[ACE] [ESP] La Liga 3 - 720
+acestream://
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 4 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" ,[ACE] [ESP] La Liga 4 - 720
+acestream://
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 5 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" ,[ACE] [ESP] La Liga 5 - 720
+acestream://
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 6 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" ,[ACE] [ESP] La Liga 6 - 720
+acestream://
+
+##Movistar Deportes
+#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,[ACE] LaLiga Tv Bar 1080
+acestream://01b333b9369c662775902638ef8cffac346a0f61
+#EXTINF: group-title="Movistar Deportes" tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,[ACE] LaLiga Tv Bar 720
+acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de Campeones - 1080 MultiAudio
+acestream://109c70ce6abc73be01a82571470e3402e4714819
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080a" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de Campeones - 1080
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de campeones - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de campeones - 720
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Liga de Campeones 02 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" ,[ACE] Liga de Campeones 02 - 1080
+acestream://91dce080463a5c6ee931fc5489a75ab54a5cb071
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 3 HD" tvg-name="Liga de Campeones 03 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" ,[ACE] Liga de Campeones 03 - 1080
+acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="La Liga - 720c" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] La Liga - 720c
+acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 1080 MultiAudio
+acestream://684e5c085484e8ea79858713eeb7a3668baca29e
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" ,[ACE] M+ Deportes 7 - 720
+acestream://b779e6056975e3682a804d47cbd5cc806217f64d
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" ,[ACE] M+ Deportes 7 - 1080
+acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+#EXTINF:0 group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar Fútbol HD
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 1080
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 720
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 2 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 2 1080
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga 3 HD" tvg-name="Movistar LaLiga 3 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 3 1080
+acestream://2075cf1c981654a5772d8508ecce044375d9ba38
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga4.es" tvg-name="Movistar LaLiga 4 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 4 1080
+acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga5.es" tvg-name="Movistar LaLiga 5 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 5 1080
+acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga6.es" tvg-name="Movistar LaLiga 6 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 6 1080
+acestream://8021cba61d1e0891a41a6c3334f947360000dc8e
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga10.es" tvg-name="Movistar LaLiga 7 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 7 1080
+acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
+#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartBank 1080 MultiAudio" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 1080 MultiAudio
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartBank 720" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 720
+acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV 2 HD" tvg-name="LaLiga SmartBank 2 1080" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 2 1080
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV 3 HD" tvg-name="LaLiga SmartBank 3 720" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 3 720
+acestream://1000c018cf4afb7357f10e438e966d23340e4295
+#EXTINF: group-title="Movistar Deportes" tvg-id="M. DEPORTES" tvg-name="M. Deportes 720" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+DEPORTESHD" tvg-name="M. Deportes 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 1080
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+DEPORTES2HD" tvg-name="M. Deportes 2 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 2 1080
+acestream://85bd65161dfd8c4033194da3c978c0450c9111db
+#EXTINF: group-title="Movistar Deportes" tvg-id="M. DEPORTES4" tvg-name="M. Deportes 4 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 4 1080
+acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
+#EXTINF: group-title="Movistar Deportes" tvg-id="M. DEPORTES5" tvg-name="M. Deportes 5 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 5 1080
+acestream://478833f6390f04e95c6d94180a784b78ad540d2f
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 1080 MultiAudio" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 1080 MultiAudio
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 720" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 720
+acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON3" tvg-name="M.L. Campeones 3 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 3 SD
+acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 4" tvg-name="M.L. Campeones 4 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 4 SD
+acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON5" tvg-name="M.L. Campeones 5 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 5 SD
+acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON6" tvg-name="M.L. Campeones 6 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 6 SD
+acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON7" tvg-name="M.L. Campeones 7 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 7 SD
+acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+#EXTINF: group-title="Movistar Deportes" tvg-id="M.LCAMPEON8" tvg-name="M.L. Campeones 8 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 8 SD
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 9" tvg-name="M.L. Campeones 9 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 9 SD
+acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 10" tvg-name="M.L. Campeones 10 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 10 SD
+acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 11" tvg-name="M.L. Campeones 11 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 11 SD
+acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 12" tvg-name="M.L. Campeones 12 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 12 SD
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ GOLF HD" tvg-name="M. Golf 1080" tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" ,[ACE] M. Golf 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF: group-title="Movistar Deportes" tvg-id="EUROSPORT1HD" tvg-name="EuroSport 1 1080" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,[ACE] EuroSport 1 1080
+acestream://40da37534656efcc6179c1b7693335d5e8212e43
+#EXTINF: group-title="Movistar Deportes" tvg-id="EUROSPORT2HD" tvg-name="EuroSport 2 1080" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,[ACE] EuroSport 2 1080
+acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones HD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones HD
+acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON2" tvg-name="M.L. Campeones 2" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 2
+acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON2" tvg-name="M.L. Campeones 2 HD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 2 HD
+acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON3" tvg-name="M.L. Campeones 3 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 3 SD
+acestream://f2b785193cfa99c581287be39e2fb5a73827957b
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON4" tvg-name="M.L. Campeones 4 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 4 SD
+acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones.es" ,[ACE] M.L. Campeones 1080 MultiAudio 2
+acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones" ,[ACE] M.L. Campeones 1080 MultiAudio
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones" ,[ACE] M.L. Campeones 720
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones2.es" tvg-name="M.L. Campeones 2" ,[ACE] M.L. Campeones 2 1080
+acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones3.es" tvg-name="M.L. Campeones 2" ,[ACE] M.L. Campeones 2 720
+acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones3.es" tvg-name="M. Campeones 3" ,[ACE] M.L. Campeones 3 1080
+acestream://f2b785193cfa99c581287be39e2fb5a73827957b
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones3.es" ,[ACE] M.L. Campeones 3 720
+acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones4.es" ,[ACE] M.L. Campeones 4 SD
+acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones5.es" ,[ACE] M.L. Campeones 5 SD
+acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones6.es" ,[ACE] M.L. Campeones 6 SD
+acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones7.es" ,[ACE] M.L. Campeones 7 SD
+acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones8.es" ,[ACE] M.L Campeones 8
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+
+##Movistar
+#EXTINF: group-title="Movistar +" tvg-id="0porMovistarPlus.es" tvg-name="#0" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" ,[ACE] #0
+acestream://107acd31600d0fdcdbac2065171c39042f3369c7
+#EXTINF: group-title="Movistar +" tvg-id="M+ #0 HD" tvg-name="#0 opción 2" tvg-logo="https://i.ibb.co/1mdGqWc/Cero.jpg" ,[ACE] #0 opción 2
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF: group-title="Movistar +" tvg-id="eventosmovistar.es" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" ,[ACE] Eventos de Movistar
+acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
+#EXTINF: group-title="Movistar +" tvg-id="ngc.es" tvg-name="National Geographic" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" ,[ACE] National Geographic
+acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+#EXTINF: group-title="Movistar +" tvg-id="I443.43362.zap2it.com" tvg-name="Historia" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" ,[ACE] Canal Historia
+acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+#EXTINF: group-title="Movistar +" tvg-id="Toros.es" tvg-name="Toros" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" ,[ACE] Toros
+acestream://1c23860f47c37595a322e07b5171098e2a3405b9
+#EXTINF: group-title="Movistar +" tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" ,Movistar Estrenos
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1164
+#EXTINF: group-title="Movistar +" tvg-id="M+ ACCION HD" tvg-name="Movistar Accion" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" ,Movistar Accion
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1166
+#EXTINF: group-title="Movistar +" tvg-id="M+COMEDIA HD" tvg-name="Movistar Comedia" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" ,Movistar Comedia
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1167
+#EXTINF: group-title="Movistar +" tvg-id="M+ Cine Español" tvg-name="Movistar Cine Ñ" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" ,Movistar Cine Ñ
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
+#EXTINF: group-title="Movistar +" tvg-id="M+ SERIES HD" tvg-name="Movistar Series" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" ,Movistar Series
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1185
+#EXTINF: group-title="Movistar +" tvg-id="FOX" tvg-name="FOX" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" ,FOX
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1182
+#EXTINF: group-title="Movistar +" tvg-id="CALLE 13 HD" tvg-name="Calle 13" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" ,Calle 13
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1179
+#EXTINF: group-title="Movistar +" tvg-id="HOLLYWOOD HD" tvg-name="Hollywood" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" ,Hollywood
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1175
+#EXTINF: group-title="Movistar +" tvg-id="COMEDYCENTRAL HD" tvg-name="Comedy Central" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" ,Comedy Central
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1163
+#EXTINF: group-title="Movistar +" tvg-id="AMC HD" tvg-name="AMC" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" ,AMC
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1177
+#EXTINF: group-title="Movistar +" tvg-id="AMC CRIME" tvg-name="AMC Crime" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amccrime.png" ,AMC Crime
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1193
+#EXTINF: group-title="Movistar +" tvg-id="TCM HD" tvg-name="TCM" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" ,TCM
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1178
+#EXTINF: group-title="Movistar +" tvg-id="AXN HD" tvg-name="AXN" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" ,AXN
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1180
+#EXTINF: group-title="Movistar +" tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" ,AXN White
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1181
+#EXTINF: group-title="Movistar +" tvg-id="NAT GEO HD" tvg-name="National Geographic" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" ,National Geographic
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1196
+#EXTINF: group-title="Movistar +" tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" ,Nat Geo Wild
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1195
+#EXTINF: group-title="Movistar +" tvg-id="CANAL ODISEA" tvg-name="Odisea" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" ,Odisea
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1187
+#EXTINF: group-title="Movistar +" tvg-id="DISCOVERY" tvg-name="Discovery Channel" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" ,Discovery Channel
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1188
+#EXTINF: group-title="Movistar +" tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyp.png" ,Caza y Pesca
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1189
+#EXTINF: group-title="Movistar +" tvg-id="IBERALIA TV" tvg-name="Iberalia TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" ,Iberalia TV
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1191
+#EXTINF: group-title="Movistar +" tvg-id="DISNEY JR" tvg-name="Disney Junior" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dj.png" ,Disney Junior
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1199
+#EXTINF: group-title="Movistar +" tvg-id="DISNEY CH HD" tvg-name="Disney Channel" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" ,Disney Channel
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1200
+#EXTINF: group-title="Movistar +" tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" ,Baby TV
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1202
+#EXTINF: group-title="Movistar +" tvg-id="NICK JR" tvg-name="Nick Jr" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nickjr.png" ,Nick Jr
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1203
+#EXTINF: group-title="Movistar +" tvg-id="NICKELODEON HD" tvg-name="Nickeloden" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nick.png" ,Nickeloden
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1204
+#EXTINF: group-title="Movistar +" tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/panda.png" ,Canal Panda
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/269879
+#EXTINF: group-title="Movistar +" tvg-id="#VAMOS" tvg-name="#Vamos 720" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" ,[ACE] #Vamos 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF: group-title="Movistar +" tvg-id="M+ #VAMOSHD" tvg-name="#Vamos 1080" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" ,[ACE] #Vamos 1080
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+
 ##TV
 #EXTINF:-1 group-title="Generalistas" tvg-id="La1.TV" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" ,La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -1184,56 +1436,8 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="Varios" tvg-id="M+ #VAMOSHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" ,[ACE] [ESP] #Vamos - 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" ,[ACE] [ESP] La Liga Tv Bar - 1080
-acestream://
-#EXTINF:-1 group-title="La Liga" tvg-id="La Liga Tv Bar - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" ,[ACE] [ESP] La Liga Tv Bar - 720
-acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 Multiaudio
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 (Opcion 1)
-acestream://684e5c085484e8ea79858713eeb7a3668baca29e
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 (Opcion 2)
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 1)
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 2)
-acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 3)
-acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 4)
-acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" ,[ACE] [ESP] La Liga 2 - 1080
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" ,[ACE] [ESP] La Liga 2 - 720
-acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 3 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" ,[ACE] [ESP] La Liga 3 - 720
-acestream://
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 4 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" ,[ACE] [ESP] La Liga 4 - 720
-acestream://
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 5 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" ,[ACE] [ESP] La Liga 5 - 720
-acestream://
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 6 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" ,[ACE] [ESP] La Liga 6 - 720
-acestream://
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 Multiaudio
-acestream://fee5612d57824b6e8db780f210ec54093056dc3a
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 (Opcion 1)
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 1080 (Opcion 2)
-http://127.0.0.1:6878/ace/m/584ee15cc873ba3630d13a87ecd16b8429e69975/1884a8ca9bde8a414007a7f31dd8581c.m3u8
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 1)
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 2)
-acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 720 (Opcion 3)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 720 (Opcion 4)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c35d2207792128fc0ae49c40e885c463f664dbce
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 - 1080 Multiaudio
-acestream://1124d4366348b76a755710c8d0d5728e39d0095c
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 - 1080 (Opcion 1)
-acestream://168a14ea6da11a19637a92c4c5e4096979ec0e73
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 720 Multiaudio
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
+
+
 #EXTINF:-1 group-title="Liga de Campeones" tvg-id="Liga de Campeones - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] [ESP] Liga de Campeones - 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="Liga de Campeones" tvg-id="Liga de Campeones - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] [ESP] Liga de campeones - 720
@@ -1636,74 +1840,7 @@ https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF: group-title="TDT" tvg-id="ETB2.TV" tvg-name="ETB 2" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" ,ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF: group-title="Movistar +" tvg-id="0porMovistarPlus.es" tvg-name="#0" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" ,[ACE] #0
-acestream://107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF: group-title="Movistar +" tvg-id="M+ #0 HD" tvg-name="#0 opción 2" tvg-logo="https://i.ibb.co/1mdGqWc/Cero.jpg" ,[ACE] #0 opción 2
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF: group-title="Movistar +" tvg-id="eventosmovistar.es" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" ,[ACE] Eventos de Movistar
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
-#EXTINF: group-title="Movistar +" tvg-id="ngc.es" tvg-name="National Geographic" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" ,[ACE] National Geographic
-acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
-#EXTINF: group-title="Movistar +" tvg-id="I443.43362.zap2it.com" tvg-name="Historia" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" ,[ACE] Canal Historia
-acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
-#EXTINF: group-title="Movistar +" tvg-id="Toros.es" tvg-name="Toros" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" ,[ACE] Toros
-acestream://1c23860f47c37595a322e07b5171098e2a3405b9
-#EXTINF: group-title="Movistar +" tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" ,Movistar Estrenos
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1164
-#EXTINF: group-title="Movistar +" tvg-id="M+ ACCION HD" tvg-name="Movistar Accion" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" ,Movistar Accion
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1166
-#EXTINF: group-title="Movistar +" tvg-id="M+COMEDIA HD" tvg-name="Movistar Comedia" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" ,Movistar Comedia
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1167
-#EXTINF: group-title="Movistar +" tvg-id="M+ Cine Español" tvg-name="Movistar Cine Ñ" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" ,Movistar Cine Ñ
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
-#EXTINF: group-title="Movistar +" tvg-id="M+ SERIES HD" tvg-name="Movistar Series" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" ,Movistar Series
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1185
-#EXTINF: group-title="Movistar +" tvg-id="FOX" tvg-name="FOX" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" ,FOX
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1182
-#EXTINF: group-title="Movistar +" tvg-id="CALLE 13 HD" tvg-name="Calle 13" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" ,Calle 13
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1179
-#EXTINF: group-title="Movistar +" tvg-id="HOLLYWOOD HD" tvg-name="Hollywood" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" ,Hollywood
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1175
-#EXTINF: group-title="Movistar +" tvg-id="COMEDYCENTRAL HD" tvg-name="Comedy Central" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" ,Comedy Central
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1163
-#EXTINF: group-title="Movistar +" tvg-id="AMC HD" tvg-name="AMC" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" ,AMC
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1177
-#EXTINF: group-title="Movistar +" tvg-id="AMC CRIME" tvg-name="AMC Crime" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amccrime.png" ,AMC Crime
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1193
-#EXTINF: group-title="Movistar +" tvg-id="TCM HD" tvg-name="TCM" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" ,TCM
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1178
-#EXTINF: group-title="Movistar +" tvg-id="AXN HD" tvg-name="AXN" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" ,AXN
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1180
-#EXTINF: group-title="Movistar +" tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" ,AXN White
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1181
-#EXTINF: group-title="Movistar +" tvg-id="NAT GEO HD" tvg-name="National Geographic" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" ,National Geographic
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1196
-#EXTINF: group-title="Movistar +" tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" ,Nat Geo Wild
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1195
-#EXTINF: group-title="Movistar +" tvg-id="CANAL ODISEA" tvg-name="Odisea" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" ,Odisea
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1187
-#EXTINF: group-title="Movistar +" tvg-id="DISCOVERY" tvg-name="Discovery Channel" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" ,Discovery Channel
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1188
-#EXTINF: group-title="Movistar +" tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyp.png" ,Caza y Pesca
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1189
-#EXTINF: group-title="Movistar +" tvg-id="IBERALIA TV" tvg-name="Iberalia TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" ,Iberalia TV
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1191
-#EXTINF: group-title="Movistar +" tvg-id="DISNEY JR" tvg-name="Disney Junior" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dj.png" ,Disney Junior
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1199
-#EXTINF: group-title="Movistar +" tvg-id="DISNEY CH HD" tvg-name="Disney Channel" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" ,Disney Channel
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1200
-#EXTINF: group-title="Movistar +" tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" ,Baby TV
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1202
-#EXTINF: group-title="Movistar +" tvg-id="NICK JR" tvg-name="Nick Jr" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nickjr.png" ,Nick Jr
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1203
-#EXTINF: group-title="Movistar +" tvg-id="NICKELODEON HD" tvg-name="Nickeloden" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nick.png" ,Nickeloden
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1204
-#EXTINF: group-title="Movistar +" tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/panda.png" ,Canal Panda
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/269879
-#EXTINF: group-title="Movistar +" tvg-id="#VAMOS" tvg-name="#Vamos 720" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" ,[ACE] #Vamos 720
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF: group-title="Movistar +" tvg-id="M+ #VAMOSHD" tvg-name="#Vamos 1080" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" ,[ACE] #Vamos 1080
-acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+
 #EXTINF: group-title="Internacional" tvg-id="I251.19158.schedulesdirect.org" tvg-name="ESPN Argentina" tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png" ,[ACE] ESPN Argentina
 acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
 #EXTINF: group-title="Internacional" tvg-id="I261.79042.schedulesdirect.org" tvg-name="ESPN 3 Argentina" tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png" ,[ACE] ESPN 3 Argentina
@@ -1910,132 +2047,7 @@ http://angeltv.biz:6969/jessica/jessica/1258
 http://angeltv.biz:6969/jessica/jessica/86686
 #EXTINF: group-title="Internacional" ,NBA FEED 2
 http://angeltv.biz:6969/jessica/jessica/86687
-#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,[ACE] LaLiga Tv Bar 1080
-acestream://01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF: group-title="Movistar Deportes" tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,[ACE] LaLiga Tv Bar 720
-acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de Campeones - 1080 MultiAudio
-acestream://109c70ce6abc73be01a82571470e3402e4714819
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080a" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de Campeones - 1080
-acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de campeones - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de campeones - 720
-acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Liga de Campeones 02 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" ,[ACE] Liga de Campeones 02 - 1080
-acestream://91dce080463a5c6ee931fc5489a75ab54a5cb071
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 3 HD" tvg-name="Liga de Campeones 03 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" ,[ACE] Liga de Campeones 03 - 1080
-acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="La Liga - 720c" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] La Liga - 720c
-acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 1080 MultiAudio
-acestream://684e5c085484e8ea79858713eeb7a3668baca29e
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" ,[ACE] M+ Deportes 7 - 720
-acestream://b779e6056975e3682a804d47cbd5cc806217f64d
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" ,[ACE] M+ Deportes 7 - 1080
-acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
-#EXTINF:0 group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar Fútbol HD
-acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 1080
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 720
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 2 720
-acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 2 1080
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga 3 HD" tvg-name="Movistar LaLiga 3 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 3 1080
-acestream://2075cf1c981654a5772d8508ecce044375d9ba38
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga4.es" tvg-name="Movistar LaLiga 4 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 4 1080
-acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga5.es" tvg-name="Movistar LaLiga 5 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 5 1080
-acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga6.es" tvg-name="Movistar LaLiga 6 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 6 1080
-acestream://8021cba61d1e0891a41a6c3334f947360000dc8e
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga10.es" tvg-name="Movistar LaLiga 7 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 7 1080
-acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
-#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartBank 1080 MultiAudio" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 1080 MultiAudio
-acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
-#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartBank 720" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 720
-acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
-#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV 2 HD" tvg-name="LaLiga SmartBank 2 1080" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 2 1080
-acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
-#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga SmartbankTV 3 HD" tvg-name="LaLiga SmartBank 3 720" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,[ACE] LaLiga SmartBank 3 720
-acestream://1000c018cf4afb7357f10e438e966d23340e4295
-#EXTINF: group-title="Movistar Deportes" tvg-id="M. DEPORTES" tvg-name="M. Deportes 720" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 720
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+DEPORTESHD" tvg-name="M. Deportes 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 1080
-acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+DEPORTES2HD" tvg-name="M. Deportes 2 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 2 1080
-acestream://85bd65161dfd8c4033194da3c978c0450c9111db
-#EXTINF: group-title="Movistar Deportes" tvg-id="M. DEPORTES4" tvg-name="M. Deportes 4 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 4 1080
-acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf
-#EXTINF: group-title="Movistar Deportes" tvg-id="M. DEPORTES5" tvg-name="M. Deportes 5 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" ,[ACE] M. Deportes 5 1080
-acestream://478833f6390f04e95c6d94180a784b78ad540d2f
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 1080 MultiAudio" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 1080 MultiAudio
-acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 720" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 720
-acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON3" tvg-name="M.L. Campeones 3 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 3 SD
-acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 4" tvg-name="M.L. Campeones 4 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 4 SD
-acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON5" tvg-name="M.L. Campeones 5 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 5 SD
-acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON6" tvg-name="M.L. Campeones 6 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 6 SD
-acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON7" tvg-name="M.L. Campeones 7 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 7 SD
-acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
-#EXTINF: group-title="Movistar Deportes" tvg-id="M.LCAMPEON8" tvg-name="M.L. Campeones 8 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 8 SD
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 9" tvg-name="M.L. Campeones 9 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 9 SD
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 10" tvg-name="M.L. Campeones 10 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 10 SD
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 11" tvg-name="M.L. Campeones 11 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 11 SD
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ Liga de Campeones 12" tvg-name="M.L. Campeones 12 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 12 SD
-acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ GOLF HD" tvg-name="M. Golf 1080" tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" ,[ACE] M. Golf 1080
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF: group-title="Movistar Deportes" tvg-id="EUROSPORT1HD" tvg-name="EuroSport 1 1080" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,[ACE] EuroSport 1 1080
-acestream://40da37534656efcc6179c1b7693335d5e8212e43
-#EXTINF: group-title="Movistar Deportes" tvg-id="EUROSPORT2HD" tvg-name="EuroSport 2 1080" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,[ACE] EuroSport 2 1080
-acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones
-acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones HD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones HD
-acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON2" tvg-name="M.L. Campeones 2" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 2
-acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON2" tvg-name="M.L. Campeones 2 HD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 2 HD
-acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON3" tvg-name="M.L. Campeones 3 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 3 SD
-acestream://f2b785193cfa99c581287be39e2fb5a73827957b
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEON4" tvg-name="M.L. Campeones 4 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" ,[ACE] M.L. Campeones 4 SD
-acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones.es" ,[ACE] M.L. Campeones 1080 MultiAudio 2
-acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones" ,[ACE] M.L. Campeones 1080 MultiAudio
-acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones.es" tvg-name="M.L. Campeones" ,[ACE] M.L. Campeones 720
-acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones2.es" tvg-name="M.L. Campeones 2" ,[ACE] M.L. Campeones 2 1080
-acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones3.es" tvg-name="M.L. Campeones 2" ,[ACE] M.L. Campeones 2 720
-acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones3.es" tvg-name="M. Campeones 3" ,[ACE] M.L. Campeones 3 1080
-acestream://f2b785193cfa99c581287be39e2fb5a73827957b
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones3.es" ,[ACE] M.L. Campeones 3 720
-acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones4.es" ,[ACE] M.L. Campeones 4 SD
-acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones5.es" ,[ACE] M.L. Campeones 5 SD
-acestream://662cceb5a2b23f2150172df24247fa220d8d95d4
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones6.es" ,[ACE] M.L. Campeones 6 SD
-acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones7.es" ,[ACE] M.L. Campeones 7 SD
-acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
-#EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLigadeCampeones8.es" ,[ACE] M.L Campeones 8
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+
 #EXTINF: group-title="DAZN" tvg-id="DAZN 1" tvg-name="DAZN 1 1080" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg" ,[ACE] DAZN 1 1080
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF: group-title="DAZN" tvg-id="DAZN 1" tvg-name="DAZN 1 720" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg" ,[ACE] DAZN 1 720
