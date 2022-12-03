@@ -37,7 +37,8 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Матч Премьер" tvg-name="Матч Премьер" tvg-logo="#" ,[ACE] [OK] Матч Премьер
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
-
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" ,[ACE] [ESP] M+ Deportes - 1080 (Opcion 2)
+acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 
 
 ## Mundial internacionales
