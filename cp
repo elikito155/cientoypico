@@ -26,7 +26,7 @@ acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
 acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 720 (OP 1)
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [NF] Gol Mundial 2 - 720 (OP 2)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [😾] Gol Mundial 2 - 720 (OP 2)
 acestream://
 
 ##DAZN
