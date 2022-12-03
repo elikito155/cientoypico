@@ -1,55 +1,43 @@
 ﻿#EXTM3U
 ##Mundial
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (Multiaudio)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [🟢] Gol Mundial - 1080 (Multiaudio)
 acestream://Dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF: group-title="Mundial 2022" tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] 001 Gol Mundial - 1080 Multiaudio
+#EXTINF-1: group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [🟢] Gol Mundial - 1080 (Multiaudio) OP2
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP 1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP1)
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF: group-title="Mundial 2022" tvg-id="Gol Mundial" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP 2)
+#EXTINF-1: group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP2)
 acestream://4e7b21206691ecdb489d4b1334944236f065e762
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP 3)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP3)
 acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP 4)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP4)
 acestream://2f54416685b49e9a8fbe73884712fe018e3e9855
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [NF] Gol Mundial - 1080 (OP 4)
-acestream://
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP 1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP1)
 acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP 2)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP2)
 acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP 3)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP3)
 acestream://bc125e7047cc7a83f58ae31c213899065d88794c
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP 1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP1)
 acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP 2)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP2)
 acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 720 (OP 1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 720 (OP1)
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [😾] Gol Mundial 2 - 720 (OP 2)
-acestream://
 
 ##DAZN
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 Multiaudio
 acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 (Opcion 1)
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 1080 (Opcion 2)
-http://127.0.0.1:6878/ace/m/584ee15cc873ba3630d13a87ecd16b8429e69975/1884a8ca9bde8a414007a7f31dd8581c.m3u8
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 1)
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 2)
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 720 (Opcion 3)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ESP] DAZN LaLiga - 720 (Opcion 4)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 - 1080 Multiaudio
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 - 1080 (Opcion 1)
 acestream://168a14ea6da11a19637a92c4c5e4096979ec0e73
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 720 Multiaudio
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
 
 ##La Liga
 #EXTINF:-1 group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" ,[ACE] [ESP] La Liga Tv Bar - 1080
@@ -74,14 +62,6 @@ acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" ,[ACE] [ESP] La Liga 2 - 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 3 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" ,[ACE] [ESP] La Liga 3 - 720
-acestream://
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 4 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" ,[ACE] [ESP] La Liga 4 - 720
-acestream://
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 5 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" ,[ACE] [ESP] La Liga 5 - 720
-acestream://
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga 6 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" ,[ACE] [ESP] La Liga 6 - 720
-acestream://
 
 ##Movistar Deportes
 #EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,[ACE] LaLiga Tv Bar 1080
