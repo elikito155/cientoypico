@@ -1,27 +1,44 @@
 ﻿#EXTM3U
 ##Mundial
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (Multi)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (Multi)
 acestream://Dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP1)
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF1: group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP2)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP2)
 acestream://4e7b21206691ecdb489d4b1334944236f065e762
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP3)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP3)
 acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP4)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP4)
 acestream://2f54416685b49e9a8fbe73884712fe018e3e9855
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP1)
 acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP2)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP2)
 acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP3)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 720 (OP3)
 acestream://bc125e7047cc7a83f58ae31c213899065d88794c
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP1)
 acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP2)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 1080 (OP2)
 acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
-#EXTINF:1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 720 (OP1)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 720 (OP1)
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+
+## Funcionando
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Movistar Futbol HD Es" tvg-name="Movistar Futbol HD Es" tvg-logo="#" ,[ACE] [OK] Movistar Futbol HD Es OP1
+acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Movistar Futbol HD Es" tvg-name="Movistar Futbol HD Es" tvg-logo="#" ,[ACE] [OK] Movistar Futbol HD Es OP2
+acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Movistar Futbol HD Es" tvg-name="Movistar Futbol HD Es" tvg-logo="#" ,[ACE] [OK] Movistar Futbol HD Es OP3
+acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Bein Sports 11 HD Ar" tvg-name="Bein Sports 11 HD Ar" tvg-logo="#" ,[ACE] [OK] Bein Sports 11 HD Ar
+acestream://c95422bc904378be0b035eba721d5e6a004f7d79
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Sport TV 2" tvg-name="Sport TV 2" tvg-logo="#" ,[ACE] [OK] Sport TV 2
+acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Матч Премьер" tvg-name="Матч Премьер" tvg-logo="#" ,[ACE] [OK] Матч Премьер
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
+
+
 
 ## Mundial internacionales
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Fox Sport 1" tvg-name="Fox Sport 1" tvg-logo="#" ,[ACE] [OK] FOX Sport 1
