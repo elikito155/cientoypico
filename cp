@@ -1,9 +1,7 @@
 ﻿#EXTM3U
 ##Mundial
-#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (Multiaudio)
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (Multi)
 acestream://Dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF-1: group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (Multiaudio) OP2
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP1)
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 #EXTINF-1: group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (OP2)
@@ -24,6 +22,18 @@ acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
 acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,[ACE] [OK] Gol Mundial 2 - 720 (OP1)
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+
+## Mundial internacionales
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Fox Sport 1" tvg-name="Fox Sport 1" tvg-logo="#" ,[ACE] [OK] FOX Sport 1
+acestream://9a8fd4918cb4f864e0d63a6821a55806f68dc0cc
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="TVP" tvg-name="TVP" tvg-logo="#" ,[ACE] [OK] TVP
+acestream://1d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="#" ,[ACE] [NP] TSN 1
+acestream://7f9de594019b35ab84b44d1015f31ca9c8ca7813
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="beIN Sports" tvg-name="beIN Sports" tvg-logo="#" ,[ACE] [NP] beIN Sports
+acestream://7064ed08ee876a36061d43b646a00524f27141fd
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="#" ,[ACE] [NP] ESPN 2
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
 
 ##DAZN
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 Multiaudio
