@@ -9,6 +9,14 @@ acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Sport TV 1" tvg-name="Gol Mundial HD" tvg-logo="#" ,[ACE] Sport TV 1
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
+#EXTINF:-1 group-title="Radio Populares" tvg-id="COPE.Radio" tvg-name="COPE Deportes" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" ,[MP3] COPE Deportes
+https://flucast08-o-cloud.flumotion.com/cope/net2.mp3
+
+#EXTINF:-1 group-title="Radio Populares" tvg-id="COPE.Radio" tvg-name="COPE" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" ,[MP3] COPE
+https://flucast-m04-06.flumotion.com/cope/net1.mp3
+#EXTINF:-1 group-title="Radio Populares" tvg-id="COPE.Radio" tvg-name="COPE" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" ,[MP3] COPE OP2
+https://flucast-m04-06.flumotion.com/cope/net2.mp3
+
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] Gol Mundial - 1080 (OK)
 acestream://Dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
@@ -2289,10 +2297,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
 #EXTINF:-1 group-title="Radio Populares" tvg-id="CadenaS.Radio" tvg-name="Cadena SER" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" ,[MP3] Cadena SER OP3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
-#EXTINF:-1 group-title="Radio Populares" tvg-id="COPE.Radio" tvg-name="COPE" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" ,[MP3] COPE
-https://flucast-m04-06.flumotion.com/cope/net1.mp3
-#EXTINF:-1 group-title="Radio Populares" tvg-id="COPE.Radio" tvg-name="COPE" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" ,[MP3] COPE OP2
-https://flucast-m04-06.flumotion.com/cope/net2.mp3
+
 #EXTINF:-1 group-title="Radio Populares" tvg-id="OC.Radio" tvg-name="Onda Cero" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" ,[M3U] Onda Cero
 https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
 #EXTINF:-1 group-title="Radio Populares" tvg-id="OC.Radio" tvg-name="Onda Cero" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" ,[M3U] Onda Cero
