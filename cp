@@ -1,4 +1,63 @@
 ﻿#EXTM3U
+
+##CUARTOS
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 Multi OP1
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 Multi OP2
+acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 Multi OP3 
+acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
+
+
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 OP1
+acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 OP2
+acestream://7031601915e3d33893cb324c89055b91b9ec5574
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 OP3
+acestream://aa0a5fd60f197eae4e3fbedc1206378a0c226590
+
+
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial - 720 OP1
+acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial - 720 OP2
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial - 720 OP3
+acestream://bc125e7047cc7a83f58ae31c213899065d88794c
+
+
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,Gol Mundial 2 - 1080 OP1
+acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,Gol Mundial 2 - 1080 OP2
+acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+
+
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,Gol Mundial 2 - 720 OP1
+acestream://2aab272d05089ce881538a1b3288d391de152d53
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" ,Gol Mundial 2 - 720 OP2
+acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+
+
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="TVE1" tvg-name="TVE1"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" ,La 1 HD OP1
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+
+#EXTINF:-1 group-title="Cuartos Mundial 2022" tvg-id="TVE1" tvg-name="TVE1"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" ,La 1 HD OP1
+https://assets.hackmd.io/build/emojify.js/dist/images/basic/arrow_forward.png
+
+##FINCUARTOS
+
 ##Mundial
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,[ACE] [OK] Gol Mundial - 1080 (ESP)
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
