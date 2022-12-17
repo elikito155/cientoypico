@@ -9,6 +9,12 @@ acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 Multi OP3 
 acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial UHD Multi OP1
+acestream://fc138340e045615c18f678acd5d045aec7e630a8
+
+#EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial UHD Multi OP2
+acestream://d6c14a13579a5c908bb14169d8787b9955f05b20
+
 #EXTINF:-1 group-title="Mundial 2022" tvg-id="Gol Mundial HD" tvg-name="Gol Mundial HD"  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080 OP1
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 
