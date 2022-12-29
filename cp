@@ -7,13 +7,31 @@ https://flucast08-o-cloud.flumotion.com/cope/net2.mp3
 
 ##FinRadio
 
+##TVBAR
+#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,LaLiga Tv Bar 1080
+acestream://01b333b9369c662775902638ef8cffac346a0f61
+#EXTINF: group-title="Movistar Deportes" tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,LaLiga Tv Bar 720
+acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+
+##LaLIGA
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,La Liga - 1080 Multiaudio (OP1)
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,La Liga - 1080 Multiaudio (OP2)
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,Movistar LaLiga 720
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+
+##DAZN
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,DAZN LaLiga - 1080 (OP1)
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,DAZN LaLiga - 720 (OP1)
+acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+
 ##DAZN
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 Multiaudio
 acestream://fee5612d57824b6e8db780f210ec54093056dc3a
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 1080 (Opcion 1)
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 1)
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+
+
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" ,[ACE] [ESP] DAZN LaLiga - 720 (Opcion 2)
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 #EXTINF:-1 group-title="Dazn" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,[ACE] [ESP] DAZN LaLiga 2 - 1080 Multiaudio
@@ -26,14 +44,10 @@ acestream://168a14ea6da11a19637a92c4c5e4096979ec0e73
 acestream://
 #EXTINF:-1 group-title="La Liga" tvg-id="La Liga Tv Bar - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" ,[ACE] [ESP] La Liga Tv Bar - 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 Multiaudio
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+
 #EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 (Opcion 1)
 acestream://684e5c085484e8ea79858713eeb7a3668baca29e
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 1080 (Opcion 2)
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 1)
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+
 #EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 2)
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
 #EXTINF:-1 group-title="La Liga" tvg-id="M+ LaLiga HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,[ACE] [ESP] La Liga - 720 (Opcion 3)
@@ -46,10 +60,8 @@ acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 
 ##Movistar Deportes
-#EXTINF: group-title="Movistar Deportes" tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,[ACE] LaLiga Tv Bar 1080
-acestream://01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF: group-title="Movistar Deportes" tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,[ACE] LaLiga Tv Bar 720
-acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+
+
 #EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de Campeones - 1080 MultiAudio
 acestream://109c70ce6abc73be01a82571470e3402e4714819
 #EXTINF: group-title="Movistar Deportes" tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080a" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" ,[ACE] Liga de Campeones - 1080
@@ -72,8 +84,7 @@ acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
 #EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF: group-title="Movistar Deportes" tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 720
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+
 #EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 720" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 2 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 #EXTINF: group-title="Movistar Deportes" tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 1080" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,[ACE] Movistar LaLiga 2 1080
